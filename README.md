@@ -1,4 +1,4 @@
-# mjml-api [![Build Status](https://travis-ci.org/baethon/mjml-api.svg?branch=master)](https://travis-ci.org/baethon/mjml-api)[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+# mjml-api [![Test](https://github.com/vergissberlin/mjml-api/workflows/test/badge.svg)](https://github.com/vergissberlin/mjml-api/actions) [![Build Status](https://travis-ci.org/baethon/mjml-api.svg?branch=master)](https://travis-ci.org/baethon/mjml-api)[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 This project exposes [mjml](https://mjml.io) as an API service. It's meant* to be compatible with [MJML API ](https://mjml.io/api).
 
