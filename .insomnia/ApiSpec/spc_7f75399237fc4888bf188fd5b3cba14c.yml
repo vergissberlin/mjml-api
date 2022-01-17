@@ -1,7 +1,7 @@
 _id: spc_7f75399237fc4888bf188fd5b3cba14c
 type: ApiSpec
 parentId: wrk_6364dc71b74541d2bb1a0101db3582a8
-modified: 1642422311268
+modified: 1642422452758
 created: 1642420553124
 fileName: openapi.yaml
 contents: >
@@ -55,7 +55,6 @@ contents: >
               application/json:
                 encoding:
                   html: |2-
-
                         <!doctype html>
                         <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
                           <head>
